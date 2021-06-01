@@ -61,7 +61,7 @@ tinycss==0.4
 tinycss2==0.5
 tornado==4.5.2
 Twisted==17.9.0
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 w3lib==1.18.0
 WeasyPrint==0.39

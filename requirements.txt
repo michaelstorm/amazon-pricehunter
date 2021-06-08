@@ -36,7 +36,7 @@ MarkupSafe==1.0
 olefile==0.44
 parsel==1.2.0
 pdfkit==0.6.1
-Pillow==4.2.1
+Pillow==8.2.0
 pkg-resources==0.0.0
 psycopg2==2.7.3.1
 pyasn1==0.3.7

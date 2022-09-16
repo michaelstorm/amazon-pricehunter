@@ -31,7 +31,7 @@ incremental==17.5.0
 jmespath==0.9.3
 kombu==4.1.0
 lxml==3.8.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 olefile==0.44
 parsel==1.2.0
